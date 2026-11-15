@@ -8,7 +8,7 @@ B.A. Computer Science & Philosophy, Pepperdine University (2025). Before the ran
 
 | Project | Skills |
 | --- | --- |
-| [Land Ownership Within the Chattahoochee National Forest](https://github.com/charliediraddo/chattahoochee-ownership) | QGIS overlay analysis, equal-area acreage, CRS troubleshooting, print-layout cartography |
+| [Land Ownership Within the Chattahoochee National Forest](https://github.com/charliediraddo/chattahoochee-ownership) | Spatial overlay analysis, Projections and area calculation, CRS troubleshooting, and Cartography |
 
 ## Tools
 
