@@ -8,12 +8,9 @@ B.A. Computer Science & Philosophy, Pepperdine University (2025). Before the ran
 
 | Project | Skills |
 | --- | --- |
-| [Land Ownership Within the Chattahoochee National Forest](https://github.com/charliediraddo/chattahoochee-ownership) | Spatial overlay analysis, Projections and area calculation, CRS troubleshooting, and Cartography |
-
-## Tools
-
-coming soon!
+| [Land Ownership Within the Chattahoochee National Forest](https://github.com/charliediraddo/chattahoochee-ownership) | Vector overlay analysis, Projections and area calculation, CRS troubleshooting, and Cartography |
+| [Bark Beetle Tree Mortality in the Gunnison National Forest](https://github.com/charliediraddo/gunnison-beetle-kill) | ArcGIS Pro, Filtering survey data, Overlap-corrected acreage analysis, and Metadata documentation |
 
 ## Contact
 
-coming soon!
+charliediraddo@gmail.com
